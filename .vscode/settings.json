@@ -1,7 +1,10 @@
 {
     "eslint.enable": false,
     "cSpell.words": [
+        "cargando",
         "cargarequipo",
-        "corto"
+        "corto",
+        "portafolio",
+        "productos"
     ]
 }
