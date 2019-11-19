@@ -9,7 +9,7 @@ import { ItemComponent } from './pages/item/item.component';
 const routes: Routes = [
   {path: 'home', component: PortafolioComponent},
   {path: 'about', component: AboutComponent},
-  {path: 'item', component: ItemComponent},
+  {path: 'item/:id', component: ItemComponent},
   // cualquiera que no se la ruta que que no se definio nos ba redireccion al home
   {path: '**', pathMatch: 'full', redirectTo: 'home'}
 ];

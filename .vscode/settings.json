@@ -1,10 +1,14 @@
 {
     "eslint.enable": false,
     "cSpell.words": [
+        "agencydesign",
         "cargando",
         "cargarequipo",
         "corto",
+        "cualquiera",
+        "flexbox",
         "portafolio",
-        "productos"
+        "productos",
+        "topbar"
     ]
 }
