@@ -6,9 +6,13 @@
         "cargarequipo",
         "corto",
         "cualquiera",
+        "downlevel",
+        "filtradoproducto",
         "flexbox",
         "portafolio",
         "productos",
+        "productosfiltrados",
+        "titulolower",
         "topbar"
     ]
 }
